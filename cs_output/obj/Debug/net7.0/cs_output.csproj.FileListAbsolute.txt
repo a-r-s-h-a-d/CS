@@ -1,0 +1,14 @@
+/home/arshad/Desktop/C#/cs_output/bin/Debug/net7.0/cs_output
+/home/arshad/Desktop/C#/cs_output/bin/Debug/net7.0/cs_output.deps.json
+/home/arshad/Desktop/C#/cs_output/bin/Debug/net7.0/cs_output.runtimeconfig.json
+/home/arshad/Desktop/C#/cs_output/bin/Debug/net7.0/cs_output.dll
+/home/arshad/Desktop/C#/cs_output/bin/Debug/net7.0/cs_output.pdb
+/home/arshad/Desktop/C#/cs_output/obj/Debug/net7.0/cs_output.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshad/Desktop/C#/cs_output/obj/Debug/net7.0/cs_output.AssemblyInfoInputs.cache
+/home/arshad/Desktop/C#/cs_output/obj/Debug/net7.0/cs_output.AssemblyInfo.cs
+/home/arshad/Desktop/C#/cs_output/obj/Debug/net7.0/cs_output.csproj.CoreCompileInputs.cache
+/home/arshad/Desktop/C#/cs_output/obj/Debug/net7.0/cs_output.dll
+/home/arshad/Desktop/C#/cs_output/obj/Debug/net7.0/refint/cs_output.dll
+/home/arshad/Desktop/C#/cs_output/obj/Debug/net7.0/cs_output.pdb
+/home/arshad/Desktop/C#/cs_output/obj/Debug/net7.0/cs_output.genruntimeconfig.cache
+/home/arshad/Desktop/C#/cs_output/obj/Debug/net7.0/ref/cs_output.dll

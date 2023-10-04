@@ -1,0 +1,14 @@
+/home/arshad/Desktop/C#/math/bin/Debug/net7.0/math
+/home/arshad/Desktop/C#/math/bin/Debug/net7.0/math.deps.json
+/home/arshad/Desktop/C#/math/bin/Debug/net7.0/math.runtimeconfig.json
+/home/arshad/Desktop/C#/math/bin/Debug/net7.0/math.dll
+/home/arshad/Desktop/C#/math/bin/Debug/net7.0/math.pdb
+/home/arshad/Desktop/C#/math/obj/Debug/net7.0/math.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshad/Desktop/C#/math/obj/Debug/net7.0/math.AssemblyInfoInputs.cache
+/home/arshad/Desktop/C#/math/obj/Debug/net7.0/math.AssemblyInfo.cs
+/home/arshad/Desktop/C#/math/obj/Debug/net7.0/math.csproj.CoreCompileInputs.cache
+/home/arshad/Desktop/C#/math/obj/Debug/net7.0/math.dll
+/home/arshad/Desktop/C#/math/obj/Debug/net7.0/refint/math.dll
+/home/arshad/Desktop/C#/math/obj/Debug/net7.0/math.pdb
+/home/arshad/Desktop/C#/math/obj/Debug/net7.0/math.genruntimeconfig.cache
+/home/arshad/Desktop/C#/math/obj/Debug/net7.0/ref/math.dll

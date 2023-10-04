@@ -1,0 +1,14 @@
+/home/arshad/Desktop/C#/comments/obj/Debug/net7.0/comments.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshad/Desktop/C#/comments/obj/Debug/net7.0/comments.AssemblyInfoInputs.cache
+/home/arshad/Desktop/C#/comments/obj/Debug/net7.0/comments.AssemblyInfo.cs
+/home/arshad/Desktop/C#/comments/obj/Debug/net7.0/comments.csproj.CoreCompileInputs.cache
+/home/arshad/Desktop/C#/comments/bin/Debug/net7.0/comments
+/home/arshad/Desktop/C#/comments/bin/Debug/net7.0/comments.deps.json
+/home/arshad/Desktop/C#/comments/bin/Debug/net7.0/comments.runtimeconfig.json
+/home/arshad/Desktop/C#/comments/bin/Debug/net7.0/comments.dll
+/home/arshad/Desktop/C#/comments/bin/Debug/net7.0/comments.pdb
+/home/arshad/Desktop/C#/comments/obj/Debug/net7.0/comments.dll
+/home/arshad/Desktop/C#/comments/obj/Debug/net7.0/refint/comments.dll
+/home/arshad/Desktop/C#/comments/obj/Debug/net7.0/comments.pdb
+/home/arshad/Desktop/C#/comments/obj/Debug/net7.0/comments.genruntimeconfig.cache
+/home/arshad/Desktop/C#/comments/obj/Debug/net7.0/ref/comments.dll

@@ -1,0 +1,14 @@
+/home/arshad/Desktop/C#/condition_if/bin/Debug/net7.0/condition_if
+/home/arshad/Desktop/C#/condition_if/bin/Debug/net7.0/condition_if.deps.json
+/home/arshad/Desktop/C#/condition_if/bin/Debug/net7.0/condition_if.runtimeconfig.json
+/home/arshad/Desktop/C#/condition_if/bin/Debug/net7.0/condition_if.dll
+/home/arshad/Desktop/C#/condition_if/bin/Debug/net7.0/condition_if.pdb
+/home/arshad/Desktop/C#/condition_if/obj/Debug/net7.0/condition_if.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshad/Desktop/C#/condition_if/obj/Debug/net7.0/condition_if.AssemblyInfoInputs.cache
+/home/arshad/Desktop/C#/condition_if/obj/Debug/net7.0/condition_if.AssemblyInfo.cs
+/home/arshad/Desktop/C#/condition_if/obj/Debug/net7.0/condition_if.csproj.CoreCompileInputs.cache
+/home/arshad/Desktop/C#/condition_if/obj/Debug/net7.0/condition_if.dll
+/home/arshad/Desktop/C#/condition_if/obj/Debug/net7.0/refint/condition_if.dll
+/home/arshad/Desktop/C#/condition_if/obj/Debug/net7.0/condition_if.pdb
+/home/arshad/Desktop/C#/condition_if/obj/Debug/net7.0/condition_if.genruntimeconfig.cache
+/home/arshad/Desktop/C#/condition_if/obj/Debug/net7.0/ref/condition_if.dll

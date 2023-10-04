@@ -1,0 +1,14 @@
+/home/arshad/Desktop/C#/hello_world/bin/Debug/net7.0/hello_world
+/home/arshad/Desktop/C#/hello_world/bin/Debug/net7.0/hello_world.deps.json
+/home/arshad/Desktop/C#/hello_world/bin/Debug/net7.0/hello_world.runtimeconfig.json
+/home/arshad/Desktop/C#/hello_world/bin/Debug/net7.0/hello_world.dll
+/home/arshad/Desktop/C#/hello_world/bin/Debug/net7.0/hello_world.pdb
+/home/arshad/Desktop/C#/hello_world/obj/Debug/net7.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshad/Desktop/C#/hello_world/obj/Debug/net7.0/hello_world.AssemblyInfoInputs.cache
+/home/arshad/Desktop/C#/hello_world/obj/Debug/net7.0/hello_world.AssemblyInfo.cs
+/home/arshad/Desktop/C#/hello_world/obj/Debug/net7.0/hello_world.csproj.CoreCompileInputs.cache
+/home/arshad/Desktop/C#/hello_world/obj/Debug/net7.0/hello_world.dll
+/home/arshad/Desktop/C#/hello_world/obj/Debug/net7.0/refint/hello_world.dll
+/home/arshad/Desktop/C#/hello_world/obj/Debug/net7.0/hello_world.pdb
+/home/arshad/Desktop/C#/hello_world/obj/Debug/net7.0/hello_world.genruntimeconfig.cache
+/home/arshad/Desktop/C#/hello_world/obj/Debug/net7.0/ref/hello_world.dll
