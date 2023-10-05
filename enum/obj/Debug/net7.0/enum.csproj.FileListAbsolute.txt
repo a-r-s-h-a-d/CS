@@ -1,0 +1,14 @@
+/home/arshad/Desktop/C#/enum/obj/Debug/net7.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshad/Desktop/C#/enum/obj/Debug/net7.0/enum.AssemblyInfoInputs.cache
+/home/arshad/Desktop/C#/enum/obj/Debug/net7.0/enum.AssemblyInfo.cs
+/home/arshad/Desktop/C#/enum/obj/Debug/net7.0/enum.csproj.CoreCompileInputs.cache
+/home/arshad/Desktop/C#/enum/bin/Debug/net7.0/enum
+/home/arshad/Desktop/C#/enum/bin/Debug/net7.0/enum.deps.json
+/home/arshad/Desktop/C#/enum/bin/Debug/net7.0/enum.runtimeconfig.json
+/home/arshad/Desktop/C#/enum/bin/Debug/net7.0/enum.dll
+/home/arshad/Desktop/C#/enum/bin/Debug/net7.0/enum.pdb
+/home/arshad/Desktop/C#/enum/obj/Debug/net7.0/enum.dll
+/home/arshad/Desktop/C#/enum/obj/Debug/net7.0/refint/enum.dll
+/home/arshad/Desktop/C#/enum/obj/Debug/net7.0/enum.pdb
+/home/arshad/Desktop/C#/enum/obj/Debug/net7.0/enum.genruntimeconfig.cache
+/home/arshad/Desktop/C#/enum/obj/Debug/net7.0/ref/enum.dll

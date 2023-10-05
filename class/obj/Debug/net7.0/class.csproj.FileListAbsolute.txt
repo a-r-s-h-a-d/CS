@@ -1,0 +1,14 @@
+/home/arshad/Desktop/C#/class/bin/Debug/net7.0/class
+/home/arshad/Desktop/C#/class/bin/Debug/net7.0/class.deps.json
+/home/arshad/Desktop/C#/class/bin/Debug/net7.0/class.runtimeconfig.json
+/home/arshad/Desktop/C#/class/bin/Debug/net7.0/class.dll
+/home/arshad/Desktop/C#/class/bin/Debug/net7.0/class.pdb
+/home/arshad/Desktop/C#/class/obj/Debug/net7.0/class.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshad/Desktop/C#/class/obj/Debug/net7.0/class.AssemblyInfoInputs.cache
+/home/arshad/Desktop/C#/class/obj/Debug/net7.0/class.AssemblyInfo.cs
+/home/arshad/Desktop/C#/class/obj/Debug/net7.0/class.csproj.CoreCompileInputs.cache
+/home/arshad/Desktop/C#/class/obj/Debug/net7.0/class.dll
+/home/arshad/Desktop/C#/class/obj/Debug/net7.0/refint/class.dll
+/home/arshad/Desktop/C#/class/obj/Debug/net7.0/class.pdb
+/home/arshad/Desktop/C#/class/obj/Debug/net7.0/class.genruntimeconfig.cache
+/home/arshad/Desktop/C#/class/obj/Debug/net7.0/ref/class.dll

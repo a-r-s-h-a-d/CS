@@ -1,0 +1,14 @@
+/home/arshad/Desktop/C#/array/obj/Debug/net7.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshad/Desktop/C#/array/obj/Debug/net7.0/array.AssemblyInfoInputs.cache
+/home/arshad/Desktop/C#/array/obj/Debug/net7.0/array.AssemblyInfo.cs
+/home/arshad/Desktop/C#/array/obj/Debug/net7.0/array.csproj.CoreCompileInputs.cache
+/home/arshad/Desktop/C#/array/bin/Debug/net7.0/array
+/home/arshad/Desktop/C#/array/bin/Debug/net7.0/array.deps.json
+/home/arshad/Desktop/C#/array/bin/Debug/net7.0/array.runtimeconfig.json
+/home/arshad/Desktop/C#/array/bin/Debug/net7.0/array.dll
+/home/arshad/Desktop/C#/array/bin/Debug/net7.0/array.pdb
+/home/arshad/Desktop/C#/array/obj/Debug/net7.0/array.dll
+/home/arshad/Desktop/C#/array/obj/Debug/net7.0/refint/array.dll
+/home/arshad/Desktop/C#/array/obj/Debug/net7.0/array.pdb
+/home/arshad/Desktop/C#/array/obj/Debug/net7.0/array.genruntimeconfig.cache
+/home/arshad/Desktop/C#/array/obj/Debug/net7.0/ref/array.dll

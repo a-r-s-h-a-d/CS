@@ -1,0 +1,14 @@
+/home/arshad/Desktop/C#/inheritence/bin/Debug/net7.0/inheritence
+/home/arshad/Desktop/C#/inheritence/bin/Debug/net7.0/inheritence.deps.json
+/home/arshad/Desktop/C#/inheritence/bin/Debug/net7.0/inheritence.runtimeconfig.json
+/home/arshad/Desktop/C#/inheritence/bin/Debug/net7.0/inheritence.dll
+/home/arshad/Desktop/C#/inheritence/bin/Debug/net7.0/inheritence.pdb
+/home/arshad/Desktop/C#/inheritence/obj/Debug/net7.0/inheritence.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshad/Desktop/C#/inheritence/obj/Debug/net7.0/inheritence.AssemblyInfoInputs.cache
+/home/arshad/Desktop/C#/inheritence/obj/Debug/net7.0/inheritence.AssemblyInfo.cs
+/home/arshad/Desktop/C#/inheritence/obj/Debug/net7.0/inheritence.csproj.CoreCompileInputs.cache
+/home/arshad/Desktop/C#/inheritence/obj/Debug/net7.0/inheritence.dll
+/home/arshad/Desktop/C#/inheritence/obj/Debug/net7.0/refint/inheritence.dll
+/home/arshad/Desktop/C#/inheritence/obj/Debug/net7.0/inheritence.pdb
+/home/arshad/Desktop/C#/inheritence/obj/Debug/net7.0/inheritence.genruntimeconfig.cache
+/home/arshad/Desktop/C#/inheritence/obj/Debug/net7.0/ref/inheritence.dll

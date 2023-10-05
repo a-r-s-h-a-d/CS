@@ -1,0 +1,14 @@
+/home/arshad/Desktop/C#/polymorphism/obj/Debug/net7.0/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshad/Desktop/C#/polymorphism/obj/Debug/net7.0/polymorphism.AssemblyInfoInputs.cache
+/home/arshad/Desktop/C#/polymorphism/obj/Debug/net7.0/polymorphism.AssemblyInfo.cs
+/home/arshad/Desktop/C#/polymorphism/obj/Debug/net7.0/polymorphism.csproj.CoreCompileInputs.cache
+/home/arshad/Desktop/C#/polymorphism/bin/Debug/net7.0/polymorphism
+/home/arshad/Desktop/C#/polymorphism/bin/Debug/net7.0/polymorphism.deps.json
+/home/arshad/Desktop/C#/polymorphism/bin/Debug/net7.0/polymorphism.runtimeconfig.json
+/home/arshad/Desktop/C#/polymorphism/bin/Debug/net7.0/polymorphism.dll
+/home/arshad/Desktop/C#/polymorphism/bin/Debug/net7.0/polymorphism.pdb
+/home/arshad/Desktop/C#/polymorphism/obj/Debug/net7.0/polymorphism.dll
+/home/arshad/Desktop/C#/polymorphism/obj/Debug/net7.0/refint/polymorphism.dll
+/home/arshad/Desktop/C#/polymorphism/obj/Debug/net7.0/polymorphism.pdb
+/home/arshad/Desktop/C#/polymorphism/obj/Debug/net7.0/polymorphism.genruntimeconfig.cache
+/home/arshad/Desktop/C#/polymorphism/obj/Debug/net7.0/ref/polymorphism.dll
